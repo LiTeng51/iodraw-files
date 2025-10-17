@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="114" y="-559" width="100" height="70" as="geometry" />
+          <mxGeometry x="185" y="-559" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="-557.5" width="46" height="67" as="geometry" />
+          <mxGeometry x="387" y="-557.5" width="46" height="67" as="geometry" />
         </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="464" y="-564" width="80" height="80" as="geometry" />
+          <mxGeometry x="535" y="-564" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnLvg2MrPtRXTVo1G8l-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
