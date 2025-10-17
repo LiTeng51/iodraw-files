@@ -8,7 +8,10 @@
           <mxGeometry x="110" y="-559" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="298" y="-549" width="35" height="50" as="geometry" />
+          <mxGeometry x="294" y="-557.5" width="46" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="IUnLvg2MrPtRXTVo1G8l-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="475" y="-559" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
