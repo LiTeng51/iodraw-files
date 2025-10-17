@@ -13,9 +13,6 @@
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" vertex="1" parent="1">
           <mxGeometry x="535" y="-564" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IUnLvg2MrPtRXTVo1G8l-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="171" y="-431" width="497" height="157" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
