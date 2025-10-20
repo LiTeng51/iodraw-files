@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j-VYTrIWjC94vSsJAYK7-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;strokeColor=#FFFFFF;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="91" y="-216" width="668" height="137" as="geometry" />
+          <mxGeometry x="91" y="-229" width="594" height="145" as="geometry" />
         </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
           <mxGeometry x="185" y="-559" width="100" height="70" as="geometry" />
