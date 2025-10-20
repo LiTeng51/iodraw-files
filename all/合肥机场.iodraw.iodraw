@@ -122,7 +122,7 @@
         <mxCell id="j-VYTrIWjC94vSsJAYK7-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-19" target="j-VYTrIWjC94vSsJAYK7-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j-VYTrIWjC94vSsJAYK7-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-19" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 20px; background-color: rgb(0, 0, 0);&quot;&gt;微服务集群&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="764" y="74" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-20" target="j-VYTrIWjC94vSsJAYK7-9">
