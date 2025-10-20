@@ -25,9 +25,6 @@
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="387" y="-613.5" width="46" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="j-VYTrIWjC94vSsJAYK7-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IUnLvg2MrPtRXTVo1G8l-3" target="j-VYTrIWjC94vSsJAYK7-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" parent="1" vertex="1">
           <mxGeometry x="535" y="-620" width="80" height="80" as="geometry" />
         </mxCell>
