@@ -85,10 +85,16 @@
         <mxCell id="j-VYTrIWjC94vSsJAYK7-21" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" vertex="1" parent="1">
           <mxGeometry x="781" y="-101" width="71" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="j-VYTrIWjC94vSsJAYK7-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-17" target="j-VYTrIWjC94vSsJAYK7-18">
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-17" target="j-VYTrIWjC94vSsJAYK7-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-72.5" y="-131" as="sourcePoint" />
             <mxPoint x="-72.5" y="-110.28932188134524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-79.5" y="38" as="sourcePoint" />
+            <mxPoint x="-79.5" y="58.710678118654755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
