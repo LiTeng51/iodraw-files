@@ -71,7 +71,10 @@
           <mxGeometry x="-64" y="9" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
-          <mxGeometry x="-127" y="-302" width="50" height="54" as="geometry" />
+          <mxGeometry x="-127" y="-302" width="85" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" vertex="1" parent="1">
+          <mxGeometry x="-123" y="-133" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
