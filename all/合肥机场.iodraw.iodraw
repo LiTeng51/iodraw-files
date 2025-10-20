@@ -76,6 +76,9 @@
         <mxCell id="j-VYTrIWjC94vSsJAYK7-14" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;主从切换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="371" y="-371" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-16" target="j-VYTrIWjC94vSsJAYK7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="-64" y="64" width="68" height="68" as="geometry" />
         </mxCell>
@@ -84,6 +87,9 @@
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
           <mxGeometry x="-115" y="-260" width="85" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-18" target="j-VYTrIWjC94vSsJAYK7-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-18" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" vertex="1" parent="1">
           <mxGeometry x="-115" y="-83" width="71" height="71" as="geometry" />
