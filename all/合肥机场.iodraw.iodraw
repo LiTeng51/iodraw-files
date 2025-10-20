@@ -110,7 +110,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-26" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="100" y="214" width="50" height="42" as="geometry" />
+          <mxGeometry x="55" y="241" width="100" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-27" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="548" y="241" width="100" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
