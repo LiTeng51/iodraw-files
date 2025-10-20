@@ -16,9 +16,6 @@
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" parent="1" vertex="1">
           <mxGeometry x="535" y="-564" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IUnLvg2MrPtRXTVo1G8l-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="407" y="-377" width="10" height="511" as="geometry" />
-        </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-7" value="&lt;font color=&quot;#ffffff&quot;&gt;神州云科&lt;br&gt;ROSE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="176" y="-371" width="120" height="60" as="geometry" />
         </mxCell>
