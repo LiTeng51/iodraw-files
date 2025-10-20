@@ -13,14 +13,17 @@
         <mxCell id="j-VYTrIWjC94vSsJAYK7-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#000000;strokeColor=#FFFFFF;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="91" y="-293" width="594" height="145" as="geometry" />
         </mxCell>
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IUnLvg2MrPtRXTVo1G8l-1" target="j-VYTrIWjC94vSsJAYK7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
-          <mxGeometry x="185" y="-559" width="100" height="70" as="geometry" />
+          <mxGeometry x="185" y="-615" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="387" y="-557.5" width="46" height="67" as="geometry" />
+          <mxGeometry x="387" y="-613.5" width="46" height="67" as="geometry" />
         </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="535" y="-564" width="80" height="80" as="geometry" />
+          <mxGeometry x="535" y="-620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IUnLvg2MrPtRXTVo1G8l-7" value="&lt;font color=&quot;#ffffff&quot;&gt;神州云科&lt;br&gt;ROSE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="176" y="-371" width="120" height="60" as="geometry" />
