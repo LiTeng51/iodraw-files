@@ -77,13 +77,13 @@
           <mxGeometry x="-115" y="-83" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="878" y="46" width="68" height="68" as="geometry" />
+          <mxGeometry x="764" y="74" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
-          <mxGeometry x="815" y="-265" width="85" height="79" as="geometry" />
+          <mxGeometry x="815" y="-260" width="85" height="79" as="geometry" />
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-21" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" vertex="1" parent="1">
-          <mxGeometry x="827" y="-101" width="71" height="71" as="geometry" />
+          <mxGeometry x="781" y="-101" width="71" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
