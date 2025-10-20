@@ -49,7 +49,7 @@
         <mxCell id="j-VYTrIWjC94vSsJAYK7-11" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(0, 0, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;注册中心/配置中心&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="-288" width="102" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="j-VYTrIWjC94vSsJAYK7-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="IUnLvg2MrPtRXTVo1G8l-7">
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="IUnLvg2MrPtRXTVo1G8l-7" target="IUnLvg2MrPtRXTVo1G8l-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="296" y="-291" as="sourcePoint" />
             <mxPoint x="366.71067811865476" y="-341" as="targetPoint" />
