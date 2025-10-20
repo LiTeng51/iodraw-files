@@ -79,6 +79,9 @@
         <mxCell id="j-VYTrIWjC94vSsJAYK7-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-16" target="j-VYTrIWjC94vSsJAYK7-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-16" target="j-VYTrIWjC94vSsJAYK7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="-64" y="64" width="68" height="68" as="geometry" />
         </mxCell>
@@ -101,7 +104,7 @@
             <mxPoint x="681" y="-218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-VYTrIWjC94vSsJAYK7-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-19" target="j-VYTrIWjC94vSsJAYK7-31">
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="j-VYTrIWjC94vSsJAYK7-19" target="j-VYTrIWjC94vSsJAYK7-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j-VYTrIWjC94vSsJAYK7-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
