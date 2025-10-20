@@ -133,6 +133,9 @@
         <mxCell id="j-VYTrIWjC94vSsJAYK7-29" value="&lt;font style=&quot;background-color: rgb(0, 0, 0); font-size: 19px;&quot; color=&quot;#ffffff&quot;&gt;主从同步&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="353" y="64" width="94" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="j-VYTrIWjC94vSsJAYK7-34" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="134" y="362" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
