@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JV_p4uLdeSapo5WodqOy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JV_p4uLdeSapo5WodqOy-1" target="JV_p4uLdeSapo5WodqOy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-1" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;互联网&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="-2338" width="200" height="120" as="geometry" />
         </mxCell>
@@ -20,10 +23,10 @@
           <mxGeometry x="389" y="-1870" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-8" value="Redis&lt;div&gt;Mongodb&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
-          <mxGeometry x="329" y="-1690" width="50" height="15" as="geometry" />
+          <mxGeometry x="329" y="-1675" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-9" value="Oracle&lt;div&gt;MySQL&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
-          <mxGeometry x="449" y="-1690" width="50" height="15" as="geometry" />
+          <mxGeometry x="449" y="-1675" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-10" value="大兴土地系统&lt;div&gt;iServer&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
           <mxGeometry x="389" y="-1761" width="50" height="15" as="geometry" />
