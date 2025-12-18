@@ -20,13 +20,13 @@
           <mxGeometry x="389" y="-1870" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
-          <mxGeometry x="304" y="-1753" width="50" height="15" as="geometry" />
+          <mxGeometry x="227" y="-1753" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-1753" width="50" height="15" as="geometry" />
+          <mxGeometry x="563" y="-1753" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
-          <mxGeometry x="472" y="-1753" width="50" height="15" as="geometry" />
+          <mxGeometry x="395" y="-1753" width="50" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
