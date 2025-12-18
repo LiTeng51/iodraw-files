@@ -23,10 +23,10 @@
           <mxGeometry x="304" y="-1753" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
-          <mxGeometry x="314" y="-1743" width="50" height="15" as="geometry" />
+          <mxGeometry x="640" y="-1753" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
-          <mxGeometry x="324" y="-1733" width="50" height="15" as="geometry" />
+          <mxGeometry x="472" y="-1753" width="50" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
