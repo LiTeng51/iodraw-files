@@ -13,6 +13,9 @@
         <mxCell id="JV_p4uLdeSapo5WodqOy-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Azure_Firewall_Manager.svg;" vertex="1" parent="1">
           <mxGeometry x="379" y="-2090" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JV_p4uLdeSapo5WodqOy-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="374" y="-1980" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
