@@ -58,8 +58,11 @@
         <mxCell id="JV_p4uLdeSapo5WodqOy-19" value="安全接入区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="-2185" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JV_p4uLdeSapo5WodqOy-22" value="安全接入区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JV_p4uLdeSapo5WodqOy-22" value="核心交换区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="-1990" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JV_p4uLdeSapo5WodqOy-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="249" y="-1990" width="350" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
