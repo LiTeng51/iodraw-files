@@ -28,6 +28,9 @@
         <mxCell id="JV_p4uLdeSapo5WodqOy-9" value="Oracle&lt;div&gt;MySQL&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
           <mxGeometry x="449" y="-1675" width="50" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="JV_p4uLdeSapo5WodqOy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JV_p4uLdeSapo5WodqOy-10" target="JV_p4uLdeSapo5WodqOy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-10" value="大兴土地系统&lt;div&gt;iServer&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
           <mxGeometry x="389" y="-1761" width="50" height="15" as="geometry" />
         </mxCell>
@@ -35,6 +38,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JV_p4uLdeSapo5WodqOy-3" target="JV_p4uLdeSapo5WodqOy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JV_p4uLdeSapo5WodqOy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JV_p4uLdeSapo5WodqOy-5" target="JV_p4uLdeSapo5WodqOy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JV_p4uLdeSapo5WodqOy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JV_p4uLdeSapo5WodqOy-6" target="JV_p4uLdeSapo5WodqOy-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
