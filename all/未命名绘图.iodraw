@@ -23,9 +23,9 @@
           <mxGeometry x="329" y="-1690" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
-          <mxGeometry x="514" y="-1761" width="50" height="15" as="geometry" />
+          <mxGeometry x="449" y="-1690" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="JV_p4uLdeSapo5WodqOy-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
+        <mxCell id="JV_p4uLdeSapo5WodqOy-10" value="大兴土地系统&lt;div&gt;iServer&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
           <mxGeometry x="389" y="-1761" width="50" height="15" as="geometry" />
         </mxCell>
       </root>
