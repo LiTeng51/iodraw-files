@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JV_p4uLdeSapo5WodqOy-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="249" y="-1990" width="350" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="239" y="-2000" width="350" height="90" as="geometry" />
+          <mxGeometry x="239" y="-1880" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-18" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="239" y="-2200" width="350" height="170" as="geometry" />
@@ -60,9 +63,6 @@
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-22" value="核心交换区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="-1990" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JV_p4uLdeSapo5WodqOy-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="249" y="-1990" width="350" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
