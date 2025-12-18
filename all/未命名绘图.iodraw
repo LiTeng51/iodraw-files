@@ -52,8 +52,8 @@
         <mxCell id="JV_p4uLdeSapo5WodqOy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JV_p4uLdeSapo5WodqOy-10" target="JV_p4uLdeSapo5WodqOy-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JV_p4uLdeSapo5WodqOy-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="-2302" width="50" height="30" as="geometry" />
+        <mxCell id="JV_p4uLdeSapo5WodqOy-19" value="安全接入区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-2302" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
