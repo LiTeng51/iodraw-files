@@ -34,7 +34,7 @@
         <mxCell id="JV_p4uLdeSapo5WodqOy-8" value="Redis&lt;div&gt;Mongodb&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" parent="1" vertex="1">
           <mxGeometry x="329" y="-1675" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="JV_p4uLdeSapo5WodqOy-9" value="Oracle&lt;div&gt;MySQL&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" parent="1" vertex="1">
+        <mxCell id="JV_p4uLdeSapo5WodqOy-9" value="PostgresQL" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" parent="1" vertex="1">
           <mxGeometry x="449" y="-1675" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="JV_p4uLdeSapo5WodqOy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JV_p4uLdeSapo5WodqOy-10" target="JV_p4uLdeSapo5WodqOy-8" edge="1">
@@ -52,7 +52,7 @@
         <mxCell id="JV_p4uLdeSapo5WodqOy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JV_p4uLdeSapo5WodqOy-3" target="JV_p4uLdeSapo5WodqOy-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M9OtJi1raFgF7oV-8Of0-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JV_p4uLdeSapo5WodqOy-13">
+        <mxCell id="M9OtJi1raFgF7oV-8Of0-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JV_p4uLdeSapo5WodqOy-13" vertex="1" connectable="0">
           <mxGeometry x="-0.48" y="7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
